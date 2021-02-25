@@ -1,0 +1,2 @@
+# MazeSolver
+A scala MazeSolver
